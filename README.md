@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository
+
+Hello! I'm Amayla. I'm a computer science student from Canada, and I'm going through the GitHub tutorial.
